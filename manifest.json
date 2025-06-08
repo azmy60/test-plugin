@@ -1,0 +1,23 @@
+{
+  "id": "bks-plugin-starter",
+  "name": "Plugin Starter",
+  "author": {
+    "name": "Beekeeper Studio",
+    "url": "https://beekeeperstudio.io"
+  },
+  "description": "A minimal plugin template for Beekeeper Studio plugin",
+  "version": "1.0.0",
+  "capabilities": {
+    "views": {
+      "tabTypes": [
+        {
+          "id": "hello-tab",
+          "name": "Hello Tab",
+          "kind": "shell",
+          "entry": "index.html"
+        }
+      ]
+
+    }
+  }
+}

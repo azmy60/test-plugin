@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@beekeeperstudio/plugin": "github:beekeeper-studio/plugin"
+  }
+}
