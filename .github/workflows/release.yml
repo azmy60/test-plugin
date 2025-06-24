@@ -53,9 +53,6 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Build
-        run: yarn build
-
       - name: Create zip archive
         id: create_zip
         run: |
