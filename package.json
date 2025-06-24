@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@beekeeperstudio/plugin": "github:beekeeper-studio/plugin"
+    "@beekeeperstudio/plugin": "^1.0.10"
   }
 }
